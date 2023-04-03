@@ -11,7 +11,7 @@
   
   <br/>
 
-  <h3><b>BookStore</b></h3>
+  <h3><b></b></h3>
 
 </div>
 
@@ -41,7 +41,7 @@
 
 
 
-## 📖 BookStore <a name="about-project"></a>
+## 📖 BOOKSTORE <a name="about-project"></a>
 
 This is a website that allow users to add and remove books, it also provides books management where users are able to track the progress of the reading of the book and perform status update based on their progress. This website also always grouping of books according to their categories
 
