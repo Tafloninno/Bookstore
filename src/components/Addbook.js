@@ -16,12 +16,6 @@ const Addbook = () => {
     setAuthor('');
   };
 
-  // const handleAddClick = (e) => {
-  //   e.preventDefault();
-  //   dispatch(addBook(title, author));
-  //   handleSubmit(e);
-  // };
-
   return (
     <>
       <Books />

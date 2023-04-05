@@ -6,7 +6,6 @@ import Booklist from './components/Booklist';
 
 const App = () => (
   <div>
-
     <Header />
     <Routes>
       <Route path="/" element={<Booklist />} />

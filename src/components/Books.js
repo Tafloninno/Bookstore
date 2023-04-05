@@ -15,12 +15,14 @@ const CreateBook = ({ title, author, id }) => {
         <p>{title}</p>
         <p>{author}</p>
       </div>
+      {title && (
       <div className="buttons">
         <button type="button">comments</button>
         <button type="button" onClick={handleRemoveClick}>
           remove
         </button>
       </div>
+      )}
     </div>
   );
 };
