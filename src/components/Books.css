@@ -96,6 +96,7 @@ body {
 }
 
 .chapter_wrapper p {
+  font-family: RobotoSlab;
   color: rgba(0, 0, 0, 0.782);
   font-size: 1rem;
 }

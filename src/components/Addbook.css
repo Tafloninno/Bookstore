@@ -29,3 +29,10 @@ form button {
   background-color: #0290ff;
   color: white;
 }
+
+.line {
+  width: 100%;
+  margin: 1px;
+  padding-left: 6.25rem;
+  padding-right: 6.25rem;
+}

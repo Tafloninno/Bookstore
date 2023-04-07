@@ -26,6 +26,7 @@ const Addbook = () => {
   return (
     <>
       <Books />
+      <hr className="line" />
       <div className="new_book">
         <h2>ADD NEW BOOK</h2>
         <form onSubmit={handleSubmit}>
