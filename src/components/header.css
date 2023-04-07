@@ -16,20 +16,17 @@
 }
 
 .header h1 {
-  font-family: Montserrat;
   color: #0290ff;
 }
 
 .header .books {
   color: #121212;
   text-decoration: none;
-  font-family: Montserrat-regular;
 }
 
 .header .categories {
   color: rgba(71, 70, 70, 0.579);
   text-decoration: none;
-  font-family: Montserrat-regular;
 }
 
 .title {
