@@ -26,7 +26,9 @@ const Addbook = () => {
   return (
     <>
       <Books />
+      <hr className="line" />
       <div className="new_book">
+        <h2>ADD NEW BOOK</h2>
         <form onSubmit={handleSubmit}>
           <input
             type="text"
@@ -40,6 +42,7 @@ const Addbook = () => {
             value={author}
             onChange={(e) => setAuthor(e.target.value)}
           />
+
           <button type="submit">Add Book</button>
         </form>
       </div>
