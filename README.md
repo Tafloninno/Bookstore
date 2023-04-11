@@ -95,7 +95,7 @@ This is a website that allow users to add and remove books, it also provides boo
   
  ## 🚀 Live Demo <a name="live-demo"></a> 
 
- [Live Demo Link]( https://tafloninno.github.io/Bookstore/)  
+ [Live Demo Link](https://tafloninno.github.io/Bookstore/)  
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
